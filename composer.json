@@ -1,5 +1,9 @@
 {
+  "name": "MSoft-TCGMaster",
+  "description": "A tool to manage card selling and profits",
+  "license": "GPL-3.0-or-late",
   "require": {
-    "ext-pdo": "*"
+    "ext-pdo": "*",
+    "ext-pdo_sqlite": "*"
   }
 }
