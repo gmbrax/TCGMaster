@@ -1,5 +1,5 @@
 {
-  "name": "MSoft-TCGMaster",
+  "name": "msoft/tcgmaster",
   "description": "A tool to manage card selling and profits",
   "license": "GPL-3.0-or-late",
   "require": {
