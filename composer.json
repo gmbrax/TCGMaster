@@ -1,7 +1,7 @@
 {
   "name": "msoft/tcgmaster",
   "description": "A tool to manage card selling and profits",
-  "license": "GPL-3.0-or-late",
+  "license": "GPL-3.0-only",
   "require": {
     "ext-pdo": "*",
     "ext-pdo_sqlite": "*"
